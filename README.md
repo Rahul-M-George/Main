@@ -1,11 +1,15 @@
-# Main
+# Howdy, this is my portfolio!
 
-<h1>Howdy, This is my portfolio!</h1>
-
-<h2>👨‍💻 Projects:</h2>
- - <b>Mobile App Development</b>
-  - [Walllower App - Senior Design Project](https://github.com/team-return-to-sleep/Secure_Social_App)
-
+## 👨‍💻 Projects:
+- **Forage Cybersecurity Projects**
+  - [Mastercard Cybersecurity virtual experience program](https://github.com/team-return-to-sleep/Secure_Social_App)
+- **Mobile App Development**
+  - [Wallflower App - Senior Design Project](https://github.com/team-return-to-sleep/Secure_Social_App)
+    - **Personal Responsibilities:**
+      - Led a team of 4 developers, managing project milestones via Jira.
+      - Designed and implemented secure user authentication mechanisms.
+      - Checked on matching algorithms that pairs users with shared interests
+      - Ensured 100% secure data transmission using Virgil E3 end-to-end encryption.
 
 <!-- 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
