@@ -1,9 +1,11 @@
 # Main
 
-<h1>Hi, This is my portfolio!</h1>
+<h1>Howdy, This is my portfolio!</h1>
 
 <h2>👨‍💻 Projects:</h2>
-Coming soon
+ - <b>Mobile App Development</b>
+  - [Walllower App - Senior Design Project](https://github.com/team-return-to-sleep/Secure_Social_App)
+
 
 <!-- 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -34,7 +36,7 @@ Coming soon
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - -->
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 <!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
  [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
