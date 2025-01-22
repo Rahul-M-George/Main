@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Projects:
 - **Forage Cybersecurity Projects**
-  - [Mastercard Cybersecurity virtual experience program](https://github.com/team-return-to-sleep/Secure_Social_App)
+  - [Mastercard Cybersecurity virtual experience program](https://github.com/Rahul-M-George/Mastercard_cybersec/tree/main)
 - **Mobile App Development**
   - [Wallflower App - Senior Design Project](https://github.com/team-return-to-sleep/Secure_Social_App)
     - **Personal Responsibilities:**
